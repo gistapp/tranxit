@@ -1,9 +1,8 @@
-# Tranxit Request Features
+# GistApp
 
 * Promocode
 * Wallet
 * Scheduling Ride
-* ETA / Price Estimation
 * Stripe Card Payment
 * Surge Pricing
 * Fleet Management
